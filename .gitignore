@@ -1,0 +1,7 @@
+*.pyc
+output/
+*.log
+wandb/
+*-checkpoint*
+*.out
+data/
